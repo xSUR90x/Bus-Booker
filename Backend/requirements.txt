@@ -1,0 +1,6 @@
+Flask
+Flask-RESTFUL
+Flask-SQLAlchemy
+requests
+SQLAlchemy
+Flask-Cors
